@@ -1,3 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* test for å se at css lastes */
+:root { --ok: 1; }
